@@ -1,0 +1,17 @@
+package:
+ name: magnetgeo
+ version: "0.1.0"
+ 
+source:
+ git_url: https://github.com/Trophime/python_magnetgeo
+ 
+build:
+ number: 0
+ 
+Requirements:
+  Build:
+    - lxml
+    - pyyaml
+    - gmsh
+    - pytest-runner
+ 
