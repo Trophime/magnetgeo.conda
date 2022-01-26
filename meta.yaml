@@ -13,5 +13,4 @@ Requirements:
     - lxml
     - pyyaml
     - gmsh
-    - pytest-runner
  
